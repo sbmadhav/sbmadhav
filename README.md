@@ -17,8 +17,10 @@ Node <code><img height="20" src="https://raw.githubusercontent.com/github/explor
 
 📈 My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sbmadhav&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's Stats" />
 
+⚡ Most Used Language
+ <p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbmadhav&layout=compact&show_icons=true&theme=gotham" alt="Madhav's Top Languages">
 <!--
 **sbmadhav/sbmadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
