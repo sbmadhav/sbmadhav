@@ -15,22 +15,9 @@ Node <code><img height="20" src="https://raw.githubusercontent.com/github/explor
 
 - 😄 Pronouns: He / Him 👨‍💼
 
-📈 My github stats
+⚡ My Most Used Language
+ <p  align="left" style="float:right" float="right">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbmadhav&layout=compact&show_icons=true&theme=gotham" alt="Madhav's Top Languages">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's Stats" />
+📈 My Github stats
 
-⚡ Most Used Language
- <p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbmadhav&layout=compact&show_icons=true&theme=gotham" alt="Madhav's Top Languages">
-<!--
-**sbmadhav/sbmadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left" style="float:left" float="left"> <img src="https://github-readme-stats.vercel.app/api?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's Stats" />
