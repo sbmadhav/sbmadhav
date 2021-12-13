@@ -21,3 +21,6 @@ Node <code><img height="20" src="https://raw.githubusercontent.com/github/explor
 📈 My Github stats
 
 <p align="left" style="float:left" float="left"> <img src="https://github-readme-stats.vercel.app/api?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's Stats" />
+  
+⌨️ My OSS / Personal project contribution this week
+  <p align="left" style="float:left" float="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's WakaTime" />
