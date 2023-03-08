@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Madhav. A developer trying to learn and contribute to the society as best as I can.
+I am Madhav. A developer at heart; trying to learn and contribute to the society as best as I can.
 
 - 🔭 I’m currently working on React 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> Redux <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> GraphQL <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
