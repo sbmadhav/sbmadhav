@@ -9,9 +9,7 @@ Node <code><img height="20" src="https://raw.githubusercontent.com/github/explor
 - 👯 I’m looking to collaborate on Automated Video Editing capabilities
 - 💬 Ask me about Frontend development and Architecting Frontend applications
 - 📫 How to reach me:
-  - <a href="https://www.linkedin.com/in/sbmadhav/"> LinkedIn <img align="left" alt="Madhav's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  - <a href="https://discord.gg/C4zu6xq7"> Discord <img align="left" alt="Madhav's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
-  - <a href="https://www.twitter.com/sbmadhav"> Twitter <img align="left" alt="Madhav Srinivasan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+  - <a href="https://www.linkedin.com/in/sbmadhav/"> LinkedIn <img align="left" alt="Madhav's LinkedIn" width="22px" src="linkedin.svg" /></a>
 
 - 😄 Pronouns: He / Him 👨‍💼
 
