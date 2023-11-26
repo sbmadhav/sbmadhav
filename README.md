@@ -6,10 +6,7 @@ I am Madhav. A developer at heart; trying to learn and contribute to the society
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> Redux <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> GraphQL <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 Node <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> & GCP <code><img height="20" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4"></code> 
 - 🌱 I’m currently learning Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> AI & ML
-- 👯 I’m looking to collaborate on Automated Video Editing capabilities
 - 💬 Ask me about Frontend development and Architecting Frontend applications
-- 📫 How to reach me:
-  - <a href="https://www.linkedin.com/in/sbmadhav/"> LinkedIn <img align="left" alt="Madhav's LinkedIn" width="22px" src="linkedin.svg" /></a>
 
 - 😄 Pronouns: He / Him 👨‍💼
 
