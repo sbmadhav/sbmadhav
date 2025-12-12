@@ -39,22 +39,24 @@ I enjoy solving ambiguous, high-impact problems and driving zero-to-one initiati
 
 ### **Core Stack**
 <p>
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png">&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />&nbsp;
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">&nbsp;
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">&nbsp;
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png">&nbsp;
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png">&nbsp;
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png">
 </p>
-
+<!--
 ### **AI & Conversational Technologies**
 <p>
-  <img height="28" src="https://avatars.githubusercontent.com/u/138389399?s=200&v=4">&nbsp; <!-- Anthropic -->
-  <img height="28" src="https://avatars.githubusercontent.com/u/61247385?s=200&v=4">&nbsp; <!-- Gemini -->
-  <img height="28" src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4">&nbsp; <!-- Deepgram -->
-  <img height="28" src="https://avatars.githubusercontent.com/u/29881213?s=200&v=4">&nbsp; <!-- ElevenLabs -->
+  <img height="28" src="https://avatars.githubusercontent.com/u/138389399?s=200&v=4">&nbsp;
+  <img height="28" src="https://avatars.githubusercontent.com/u/61247385?s=200&v=4">&nbsp;
+  <img height="28" src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4">&nbsp;
+  <img height="28" src="https://avatars.githubusercontent.com/u/29881213?s=200&v=4">&nbsp;
 </p>
-
+-->
+<!--
 ### **DevOps / Platform**
 <p>
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">&nbsp;
@@ -63,11 +65,11 @@ I enjoy solving ambiguous, high-impact problems and driving zero-to-one initiati
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png">&nbsp;
   <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nx/nx.png">
 </p>
-
+-->
 ---
 
 ## 📈 Engineering Impact (Selected)
-- Built a Conversational AI platform decreasing cost per call from ~$0.30/min to ~$0.03/min  
+- Built a Conversational AI platform decreasing cost per call from ~$1.70/min to ~$0.30/min  
 - Increased engineering velocity across frontend & DevOps teams through monorepo strategy and CI/CD optimization  
 - Led redesign of enterprise digital experience stack with Next.js, dramatically improving performance & SEO  
 - Built multi-agent, evaluation-first architecture for healthcare workflows with PHI-compliant pipelines  
@@ -75,19 +77,14 @@ I enjoy solving ambiguous, high-impact problems and driving zero-to-one initiati
 
 ---
 
-
 ## ⚡ My Most Used Language
- <p  align="left" style="float:right" float="right">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbmadhav&layout=compact&show_icons=true&theme=gotham" alt="Madhav's Top Languages">
+<p  align="left" style="float:right" float="right">  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sbmadhav&layout=compact&show_icons=true&theme=gotham" alt="Madhav's Top Languages">
+
+## 📈 My Github stats
+<p align="left" style="float:left" float="left"> <img src="https://github-readme-stats-fast.vercel.app/api?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's Stats" />
 
 ## ⌨️ My OSS / Personal project contribution this week
-  <p align="left" style="float:left" float="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's WakaTime" />
-
-## 📊 GitHub Metrics
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sbmadhav&theme=gotham&show_icons=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbmadhav&layout=compact&theme=gotham" />
-</p>
-
+  <p align="left" style="float:left" float="left"> <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's WakaTime" />
 ---
 
 ## 🔗 Connect
