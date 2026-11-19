@@ -11,6 +11,7 @@ Engineering leader building AI-first teams. I spent years building software, pla
 I strongly believe voice AI is how teaching changes: every learner gets a teacher they can simply talk to. This is where I try that idea out in public.
 
 - **[State of Voice Agents](https://sbmadhav.com/state-of-voice-agents/)**: a monthly, no-hype look at whether voice AI is ready to answer the phone.
+- **[learnvedicmath.com](https://learnvedicmath.com)**: a free learning site, one of my experiments in teaching with AI.
 - **[sbmadhav.com](https://sbmadhav.com)**: my corner of the internet, built on its own [design system](https://github.com/sbmadhav/design-system).
 
 ## Find me
