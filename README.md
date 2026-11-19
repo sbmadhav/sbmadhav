@@ -1,96 +1,20 @@
 <p align="center">
-  <img src="./madhav-github.png" alt="Madhav Srinivasan – Engineering Leader" />
+  <img src="./madhav-github.png" alt="Madhav Srinivasan" />
 </p>
 
-# 👋 Hi, I'm **Madhav Srinivasan**
-**Senior Director of Engineering | AI Systems Architect | Frontend Platform Leader | DevOps Transformation on GCP**
+# Hi, I'm Madhav
 
-I build and scale high-performing engineering organizations that deliver modern frontend platforms, enterprise-grade AI systems, and mission-critical digital experiences. My work spans AI agents, voice systems, React/Next.js architectures, DevOps acceleration, and organizational design for engineering velocity.
+Engineering leader building AI-first teams. I spent years building software, platforms and engineering organizations. Now apparently my job is to convince machines to build the software while convincing humans that this was the plan all along.
 
-I enjoy solving ambiguous, high-impact problems and driving zero-to-one initiatives from concept to production.
+## What I'm working on
 
----
+I strongly believe voice AI is how teaching changes: every learner gets a teacher they can simply talk to. This is where I try that idea out in public.
 
-## 🧭 Leadership Focus Areas
-### **AI & Agentic Systems**
-- Led development of enterprise Conversational AI/Voice Agents (Grace) and multimodal digital agents (Ascension Companion)  
-- Architect AI platforms using Claude Sonnet, Gemini 2.5, Deepgram, ElevenLabs, Vertex, MCP tool calling, evaluations, RAG  
-- Established enterprise processes for **AI safety, observability, governance, and PHI/PII compliance**
+- **[State of Voice Agents](https://sbmadhav.com/state-of-voice-agents/)**: a monthly, no-hype look at whether voice AI is ready to answer the phone.
+- **[sbmadhav.com](https://sbmadhav.com)**: my corner of the internet, built on its own [design system](https://github.com/sbmadhav/design-system).
 
-### **Frontend Platform Engineering**
-- Scale Next.js + React architectures serving millions of users  
-- Lead development of an enterprise design system (Helix)  
-- Drive accessibility, performance, reliability, and SEO excellence
+## Find me
 
-### **DevOps & Cloud Engineering**
-- Modernizing infrastructure from PCF to GCP native (GKE, Cloud Build, Cloud Deploy, Terraform)  
-- Nx monorepo acceleration, CI/CD optimization, and engineering productivity improvements  
-- Build systems that reduce build times, remove operational drag, and improve stability
+[LinkedIn](https://www.linkedin.com/in/sbmadhav/) · [sbmadhav.com](https://sbmadhav.com)
 
-### **Organizational Leadership**
-- Lead multi-disciplinary engineering teams (frontend, AI, platform, DevOps)  
-- Build culture around accountability, clarity, engineering excellence  
-- Lead zero-to-one initiatives in ambiguous problem spaces  
-- Partner with Product, Design, Compliance, Call Center Ops, and Marketing to deliver enterprise outcomes
-
----
-
-## 🛠️ Technical Expertise
-
-### **Core Stack**
-<p>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png">
-</p>
-<!--
-### **AI & Conversational Technologies**
-<p>
-  <img height="28" src="https://avatars.githubusercontent.com/u/138389399?s=200&v=4">&nbsp;
-  <img height="28" src="https://avatars.githubusercontent.com/u/61247385?s=200&v=4">&nbsp;
-  <img height="28" src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4">&nbsp;
-  <img height="28" src="https://avatars.githubusercontent.com/u/29881213?s=200&v=4">&nbsp;
-</p>
--->
-<!--
-### **DevOps / Platform**
-<p>
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png">&nbsp;
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nx/nx.png">
-</p>
--->
----
-
-## 📈 Engineering Impact (Selected)
-- Built a Conversational AI platform decreasing cost per call from ~$1.70/min to ~$0.30/min  
-- Increased engineering velocity across frontend & DevOps teams through monorepo strategy and CI/CD optimization  
-- Led redesign of enterprise digital experience stack with Next.js, dramatically improving performance & SEO  
-- Built multi-agent, evaluation-first architecture for healthcare workflows with PHI-compliant pipelines  
-- Scaled engineering teams, improved hiring quality, and instituted modern engineering practices  
-
----
-
-## ⚡ My Most Used Language
-<p  align="left" style="float:right" float="right">  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sbmadhav&layout=compact&show_icons=true&theme=gotham" alt="Madhav's Top Languages">
-
-## 📈 My Github stats
-<p align="left" style="float:left" float="left"> <img src="https://github-readme-stats-fast.vercel.app/api?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's Stats" />
-
-## ⌨️ My OSS / Personal project contribution this week
-  <p align="left" style="float:left" float="left"> <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=sbmadhav&show_icons=true&theme=gotham" alt="Madhav's WakaTime" />
----
-
-## 🔗 Connect
-<p>
-  <a href="https://www.linkedin.com/in/sbmadhav/">
-    <img height="28" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg">
-  </a>
-</p>
-
+<sub>The opinions I share here are my own and do not represent my employer, present or past. The machines, for the record, have not been consulted either.</sub>
